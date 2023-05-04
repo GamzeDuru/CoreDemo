@@ -1,0 +1,29 @@
+.d-block{
+    padding-left: 60%;
+}
+ .sola-kaydir{
+    float:right;
+    padding:0 10px 10px 0;  
+}
+.section-title{
+    padding-top: 5%; 
+}
+.kartlar{
+    padding-left: 15%;
+}
+.baslikfooter{
+    font-size: 20px;
+}
+.link{
+    text-decoration: none;
+}
+
+/* link üzerine geldiğimiz anda eklenecek css kodları */
+.link:hover {
+    text-decoration: underline;
+}
+
+/* linke tıkladığımız anda eklenecek css kodları */
+.link:active {
+    text-decoration-color: aqua;
+}

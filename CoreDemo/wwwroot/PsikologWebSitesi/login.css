@@ -1,0 +1,13 @@
+.giris{
+    padding-top: 2%;
+}
+
+#exampleInputEmail1{
+    width: 70%;
+}
+#exampleInputPassword1{
+    width: 70%;
+}
+body{
+    background:url(bulutlar.gif);
+}
